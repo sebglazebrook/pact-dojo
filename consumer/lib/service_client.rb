@@ -1,3 +1,0 @@
-class ServiceClient
-
-end
